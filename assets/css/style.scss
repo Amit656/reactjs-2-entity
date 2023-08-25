@@ -1,0 +1,25 @@
+.app-button {
+  --tw-bg-opacity: 1;
+  background-color: $primary;
+  --tw-text-opacity: 1;
+  color: $white;
+}
+:hover.app-button {
+--tw-bg-opacity: 1;
+  background-color: $white;
+  --tw-text-opacity: 1;
+  color: $primary;
+  border-color: $primary;
+}
+.error {
+  border-color: red;
+  background: #fdd;
+}
+.error:focus {
+  outline: none;
+}
+.disabled {
+   color: lightgrey;
+   cursor: not-allowed;
+   pointer-events: none;
+}

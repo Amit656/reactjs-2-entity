@@ -1,0 +1,59 @@
+{
+  "txt_welcome": "Bienvenue sur le tableau de bord 3PL",
+  "lbl_name": "Nom",
+  "lbl_fullname": "Nom complet",
+  "lbl_action": "Actions",
+  "lbl_add": "Ajouter",
+  "lbl_edit": "Modifier",
+  "lbl_delete": "Supprimer",
+  "lbl_save": "Sauvegarder",
+  "lbl_cancel": "Annuler",
+  "lbl_search": "Recherche",
+  "txt_nodata": "Aucune donnée disponible",
+  "lbl_warehouse": "Entrepôt",
+  "lbl_yes": "Oui",
+  "lbl_no": "Non",
+  "lbl_email": "E-mail",
+  "lbl_password": "Mot de passe",
+  "lbl_status": "Statut",
+  "lbl_state": "État",
+  "lbl_city": "Ville",
+  "lbl_zipcode": "Code postal",
+  "lbl_address": "Adresse",
+  "lbl_phone": "Téléphone",
+  "lbl_country": "Pays",
+  "lbl_currency": "Monnaie",
+  "customer": {
+    "label": "Clients 3PL",
+    "label_cust": "Cliente",
+    "txt_delete": "Voulez-vous vraiment supprimer ce client ?",
+    "txt_invite": "Inviter un nouveau client",
+    "lbl_sendinv": "Envoyer une invitation",
+    "lbl_register": "Enregistrer un client 3PL"
+  },
+  "vendor": {
+    "lbl_id": "Fournisseur ID",
+    "label": "Vendeuses",
+    "label_vendor": "Fournisseuse",
+    "txt_delete": "Voulez-vous vraiment supprimer ce fournisseur?",
+    "details": "Détails du vendeur",
+    "lbl_acc_number": "Numéro de compte",
+    "lbl_internal_note": "Remarque interne",
+    "lbl_po_note":"Note de bon de commande par défaut:"
+  },
+  "home": {
+    "label": "Maison"
+  },
+  "error": {
+    "req_name": "Il est requis de compléter le champ correspondant au nom",
+    "req_loctype": "Le champ Type de lieu est obligatoire",
+    "req_warehouse": "Le champ entrepôt est obligatoire",
+    "req_email": "Le champ E-mail est obligatoire",
+    "invalid_email": "Le champ Email doit contenir une adresse email valide",
+    "req_password": "Le champ mot de passe est obligatoire",
+    "min_password": "Le mot de passe doit comporter au moins 8 caractères",
+    "with_password": "Le mot de passe nécessite une majuscule, une minuscule, un chiffre et un caractère spécial",
+    "account_number" : "Le compte ne doit contenir que 20 chiffres",
+    "zipcode_6digit": "Le code postal ne doit pas comporter plus de 6 chiffres"
+  }
+}

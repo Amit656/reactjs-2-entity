@@ -1,0 +1,60 @@
+{
+  "txt_welcome": "Welcome to 3PL Dashboard",
+  "lbl_name": "Name",
+  "lbl_fullname": "Full Name",
+  "lbl_action": "Actions",
+  "lbl_add": "Add",
+  "lbl_edit": "Edit",
+  "lbl_delete": "Delete",
+  "lbl_save": "Save",
+  "lbl_cancel": "Cancel",
+  "lbl_search": "Search",
+  "txt_nodata": "No Data Found",
+  "lbl_warehouse": "Warehouse",
+  "lbl_yes": "Yes",
+  "lbl_no": "No",
+  "lbl_email": "Email",
+  "lbl_password": "Password",
+  "lbl_status": "Status",
+  "lbl_state": "State",
+  "lbl_city": "City",
+  "lbl_zipcode": "Zip Code",
+  "lbl_address": "Address",
+  "lbl_phone": "Phone",
+  "lbl_country": "Country",
+  "lbl_currency": "Currency",
+  "customer": {
+    "label": "3PL Customers",
+    "label_cust": "Customer",
+    "txt_delete": "Do you really want to delete this Customer?",
+    "txt_invite": "Invite a new customer",
+    "lbl_sendinv": "Send Invite",
+    "lbl_register": "Register 3PL Customer",
+    "lbl_select": "Select 3PL Customer"
+  },
+  "vendor": {
+    "lbl_id": "Vendor ID",
+    "label": "Vendors",
+    "label_vendor": "Vendor",
+    "txt_delete": "Do you really want to delete this Vendor?",
+    "details": "Vendor Details",
+    "lbl_acc_number": "Account Number",
+    "lbl_internal_note": "Internal Note",
+    "lbl_po_note":"Default PO Note:"
+  },
+  "home": {
+    "label": "Home"
+  },
+  "error": {
+    "req_name": "The Name field is required",
+    "req_loctype": "The Location type field is required",
+    "req_warehouse": "The Warehouse field is required",
+    "req_email": "The Email field is required",
+    "invalid_email": "The Email field must contain a valid email address",
+    "req_password": "The password field is required",
+    "min_password": "Password should be at least 8 characters long",
+    "with_password": "The password requires an uppercase, lowercase, number and special character",
+    "account_number" : "The account should contain only 20 digits",
+    "zipcode_6digit": "The zip code should not be more then 6 digit"
+  }
+}
